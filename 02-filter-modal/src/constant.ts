@@ -1,0 +1,96 @@
+export const RESOURCES = [
+  {
+    label: 'Higher Education',
+    name: 'resource',
+    type:'checkbox',
+    value: 'higher-education',
+    ariaLabel: 'Higher Education',
+  },
+  {
+    label: 'HR',
+    name: 'resource',
+    type:'checkbox',
+    value: 'hr',
+    ariaLabel: 'HR',
+  },
+  {
+    label: 'Marketing',
+    name: 'resource',
+    type:'checkbox',
+    value: 'marketing',
+    ariaLabel: 'Marketing',
+  },
+  {
+    label: 'Support',
+    name: 'resource',
+    type:'checkbox',
+    value: 'support',
+    ariaLabel: 'Support',
+  },
+  {
+    label: 'Engineering',
+    name: 'resource',
+    type:'checkbox',
+    value: 'engineering',
+    ariaLabel: 'Engineering',
+  },
+  {
+    label: 'Internal Comms',
+    name: 'resource',
+    type:'checkbox',
+    value: 'internal_comms',
+    ariaLabel: 'Internal Comms',
+  },
+  {
+    label: 'Sales',
+    name: 'resource',
+    type:'checkbox',
+    value: 'sales',
+    ariaLabel: 'Sales',
+  },
+  {
+    label: 'Financial services',
+    name: 'resource',
+    type:'checkbox',
+    value: 'financial services',
+    ariaLabel: 'Financial services ',
+  },
+  {
+    label: 'IT',
+    name: 'resource',
+    type:'checkbox',
+    value: 'IT',
+    ariaLabel: 'IT',
+  },
+  {
+    label: 'Security',
+    name: 'resource',
+    type:'checkbox',
+    value: 'security',
+    ariaLabel: 'Security',
+  },
+]
+
+export const TAILORED = [
+  {
+    label: 'Admin',
+    name: 'tailored',
+    type:'checkbox',
+    value: 'admin',
+    ariaLabel: 'Admin',
+  },
+  {
+    label: 'Developers',
+    name: 'tailored',
+    type:'checkbox',
+    value: 'developers',
+    ariaLabel: 'Developers',
+  },
+  {
+    label: 'General Use',
+    name: 'tailored',
+    type:'checkbox',
+    value: 'general-use',
+    ariaLabel: 'General-use',
+  },
+]
